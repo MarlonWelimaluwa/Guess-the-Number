@@ -2,6 +2,8 @@
 
 A fun and interactive number guessing game where you can win $1000! Built with vanilla JavaScript, HTML, and CSS.
 
+🌐 Live Demo: https://marlonwelimaluwa.github.io/Guess-the-Number/
+
 ## 🎮 How to Play
 
 1. The game randomly selects a number between **1 and 100**
